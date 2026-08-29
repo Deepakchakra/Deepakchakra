@@ -1,5 +1,5 @@
 # 💫 About Me:
-## About Me<br><br>I’m an **Artificial Intelligence & Machine Learning Engineering student** passionate about building practical AI solutions. I’m focused on **Machine Learning, Deep Learning, Generative AI, and LLMs**, with a strong interest in developing real-world projects and continuously improving my technical skills.<br>
+<br><br>I’m an **Artificial Intelligence & Machine Learning Engineering student** passionate about building practical AI solutions. I’m focused on **Machine Learning, Deep Learning, Generative AI, and LLMs**, with a strong interest in developing real-world projects and continuously improving my technical skills.<br>
 
 
 ## 🌐 Socials:
